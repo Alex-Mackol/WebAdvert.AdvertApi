@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>Alexa Zm</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservice</Product>
+    <PackageProjectUrl>https://github.com/Alex-Mackol/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Alex-Mackol/WebAdvert.AdvertApi</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <PackageId>AdvertApi.Models.Alexa</PackageId>
   </PropertyGroup>
 
 </Project>
